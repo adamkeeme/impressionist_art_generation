@@ -7,8 +7,8 @@ Stylizing: (applying the trained model to stylize the images from "input" folder
 python run.py --mode stylize
 
 The results:
-As different impressionist painters had a rather varied and distinct styles, i only trained the model exclusively on the famed Claude Monet's impressionist paintings. That means 13,000 of his impressionist paintings were used in the training (from Wikiart), and with all the limitations of a lightweight VAE, I saw some success with turning a real life photo of a woman holding a parasol into his most popular work "Woman with a Parasol (1875)".
-While crude, if you squint your eyes on all three images (including the acutal painting at the bottom), you can see the resemblance.
+As different impressionist painters had a rather varied and distinct styles, i only trained the model exclusively on the famed Claude Monet's impressionist paintings. That means 13,000 of his impressionist paintings were used in the training (from Wikiart), and with all the limitations of a lightweight VAE, I saw some (could be an overstatement) success with turning a real life photo of a woman holding a parasol into his most known work, "Woman with a Parasol (1875)".
+While crude, if you squint your eyes on all three images (including the acutal painting at the bottom), you can see the slight resemblance.
 
 Input:
 
