@@ -23,7 +23,8 @@ Output:
 
 Actual Painting:
 
-![woman_parasol](https://github.com/user-attachments/assets/eb60a8f9-1169-41d2-b23e-0ce360dc43e5)
+![woman_parasol (2)](https://github.com/user-attachments/assets/345d0239-da3c-460c-9478-df1877d20ee9)
+
 
 
 
