@@ -12,7 +12,8 @@ While crude, if you squint your eyes on all three images (including the acutal p
 
 Input:
 
-![woman_parasol](https://github.com/user-attachments/assets/2565cb6f-55bf-46b5-b0ba-76500ba17191)
+![woman_parasol (1)](https://github.com/user-attachments/assets/d75fdfc1-de02-499f-982d-01862d571919)
+
 
 
 Output:
