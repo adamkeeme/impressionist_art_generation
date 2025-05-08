@@ -27,4 +27,4 @@ Actual Painting:
 
 
 
-
+There are 5 more pairs of produced images to original paintings/photos for comparisons in the input and output folders. With 4 of his actual paintings also placed in the "real_paintings_for_reference" folder for your reference.
