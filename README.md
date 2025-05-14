@@ -1,8 +1,8 @@
 How to Run the UI and Upload your Image for Impressionist Painting:
 
-1. '''git clone https://github.com/adamkeeme/impressionist_art_generation.git'''
-2. '''pip install -r requirements.txt'''
-3. '''python gui.py'''
+1. ```git clone https://github.com/adamkeeme/impressionist_art_generation.git```
+2. ```pip install -r requirements.txt```
+3. ```python gui.py```
 4. go to link http://127.0.0.1:7860 unless you specify a different port
 5. upload your images and enjoy your new images stylized to impressionist paintings.
 
