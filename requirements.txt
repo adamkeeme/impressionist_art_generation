@@ -1,0 +1,5 @@
+gradio==5.29.0
+matplotlib==3.10.3
+Pillow==11.2.1
+torch==2.2.2
+torchvision==0.17.2
