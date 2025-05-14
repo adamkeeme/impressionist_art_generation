@@ -65,7 +65,7 @@ class VAE(nn.Module):
         z = self.reparameterize(mu, lv)
         # z: sampled latent (batch, latent_dim)
         d = self.fc_decode(z)
-        d = d.view(-1, 256, 32, 32)
+        # d = d.view(-1, 256, 32, 32)
         # d: decoded features (batch, 256, 32, 32)
         out = self.decoder(d)
         # out: reconstructed image (batch, channels, height, width)
